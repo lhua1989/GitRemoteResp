@@ -4,9 +4,9 @@ import java.util.Objects;
 
 public class Student {
 
-    String name;
-    int age;
-    int stuNo;
+    private String name;
+    private int age;
+    private int stuNo;
 
     public Student(String name, int age, int stuNo) {
 

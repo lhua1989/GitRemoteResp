@@ -2,8 +2,8 @@ package com.lh.entity;
 
 public class Teacher {
 
-    String name;
-    int age;
+    private String name;
+    private int age;
 
     @Override
     public String toString() {
