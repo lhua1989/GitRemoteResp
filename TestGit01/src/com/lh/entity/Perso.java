@@ -4,4 +4,6 @@ public class Perso {
 
     private String fullName;
 
+    private int height;
+
 }
