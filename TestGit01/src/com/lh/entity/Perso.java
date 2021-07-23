@@ -6,4 +6,6 @@ public class Perso {
 
     private int height;
 
+    private int weight;
+
 }
